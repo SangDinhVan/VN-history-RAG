@@ -1,0 +1,6 @@
+{
+  "name": "RAG History VN",
+  "description": "A simple Q&A web application about Vietnamese history using Gemini API.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
