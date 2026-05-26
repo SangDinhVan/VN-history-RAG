@@ -9,17 +9,9 @@ The backend RAG API is deployed separately on **Hugging Face Spaces**.
 
 ## 🌐 Live Demo
 
-Coming soon...
+https://vn-history-rag.vercel.app/
 
 ---
-
-## 🔗 Backend API
-
-Backend deployed on Hugging Face Spaces:
-
-```env
-VITE_API_URL=your_huggingface_backend_url
-```
 
 ---
 
@@ -58,58 +50,6 @@ Clone the repository:
 git clone https://github.com/SangDinhVan/VN-history-RAG.git
 cd VN-history-RAG
 ```
-
-Install dependencies:
-
-```bash
-npm install
-```
-
----
-
-## ⚙️ Environment Variables
-
-Create a `.env` file:
-
-```env
-VITE_API_URL=your_huggingface_backend_url
-```
-
-Example:
-
-```env
-VITE_API_URL=https://your-space-name.hf.space
-```
-
----
-
-## ▶️ Run Locally
-
-```bash
-npm run dev
-```
-
-Open the local URL shown in the terminal, usually:
-
-```bash
-http://localhost:5173
-```
-
----
-
-## ☁️ Deploy on Vercel
-
-1. Push this frontend project to GitHub
-2. Import the repository into Vercel
-3. Add the environment variable:
-
-```env
-VITE_API_URL=your_huggingface_backend_url
-```
-
-4. Deploy 🚀
-
----
 
 ## 📁 Project Structure
 
