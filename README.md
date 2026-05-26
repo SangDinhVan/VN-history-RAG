@@ -1,4 +1,4 @@
-# 🇻🇳 VN History RAG UI
+# VN History RAG 
 
 Frontend web interface for a Vietnamese history question-answering chatbot using **Retrieval-Augmented Generation (RAG)**.
 
