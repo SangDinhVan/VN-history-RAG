@@ -6,11 +6,7 @@ This project provides a web interface that helps users explore Vietnamese histor
 
 ---
 
-## 🌐 Live Demo
 
-Try the application here:
-
-👉 https://vn-history-rag.vercel.app/
 
 ---
 
